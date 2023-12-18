@@ -1,1 +1,1 @@
-# This is a project of online resume
+# This is an initial version of online resume
