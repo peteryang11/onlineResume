@@ -1,9 +1,9 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
+    "Hello there! Welcome to my portfolio page.",
+    `Experienced Frontend Software Engineer with a passtion to software devlopment including frontend, backend, mobile apps and AI development.`,
     `Eager to apply my technical expertise and in-depth
     product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
-    "Thanks for taking the time to learn a little about me!",
+    "Thanks for being here and know me!",
 ];
 
 export const skills = [
@@ -128,24 +128,6 @@ export const projects = {
                 "The Application display the webpages of website careerhigh.in in android devices.",
             preview: "https://github.com/vinaysomawat/CareerHigh-Android",
             techStack: ["JAVA", "XML", "Android"],
-        },
-    ],
-    freelanceProjects: [
-        {
-            projectName: "SnylloAir.com",
-            image: "images/snylloair.png",
-            summary:
-                "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-            preview: "https://www.snylloair.com/",
-            techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-        },
-        {
-            projectName: "Delivery+",
-            image: "images/AM-Logo-.png",
-            summary: "Android Application to display website in android devices.",
-            preview:
-                "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-            techStack: ["Android", "JAVA", "Play Store"],
         },
     ],
 };
